@@ -112,7 +112,7 @@ function Footer() {
         </div>
       </section>
       <div>
-      <small class="website-rights">PT. Armin Indokarya Kreatif</small>
+      {/* <small class="website-rights">PT. Armin Indokarya Kreatif</small> */}
       </div>
     </div>
   );

@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./signup.css";
-import { Button } from "../Button";
 
 function SignUp() {
   const [signUpMode, setsignUpMode] = useState("");

@@ -13,13 +13,13 @@ function Cards() {
               src='images/img-9.jpg'
               text='Muslim Fair'
               label='Jakarta'
-              path='/services'
+              path='/event'
             />
             <CardItem
               src='images/img-21.jpeg'
               text='Bikers Muslim'
               label='Bandung'
-              path='/services'
+              path='/event'
             />
           </ul>
           <ul className='cards__items'>
@@ -27,19 +27,19 @@ function Cards() {
               src='images/img-2.jpeg'
               text='Pustaka Nusantara'
               label='Sumatra'
-              path='/services'
+              path='/event'
             />
             <CardItem
               src='images/img-4.jpeg'
               text='Muslim Creator'
               label='Bali'
-              path='/products'
+              path='/event'
             />
             <CardItem
               src='images/img-8.jpg'
               text='Jalan Halal'
               label='Jakarta'
-              path='/sign-up'
+              path='/event'
             />
           </ul>
         </div>
